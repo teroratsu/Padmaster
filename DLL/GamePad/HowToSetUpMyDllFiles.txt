@@ -1,0 +1,10 @@
+MyGameFolder
+	>Include >my Includes files
+	>bin&lib >my.a & .dll files
+
+in project -> linker setting
+	>link the .a files
+
+in project -> search directory 
+	>Compiler >add the "Include" folder
+	>linker   >add the "bin&lib" folder

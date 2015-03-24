@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1415453113 source:d:\projet codeblocks\dll\gamepad\gamepad.cpp
+	"Gamepad.h"
+
+1415389621 d:\projet codeblocks\dll\gamepad\gamepad.h
+	<Xinput.h>
+	<windows.h>
+

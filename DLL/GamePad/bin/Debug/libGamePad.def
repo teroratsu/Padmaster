@@ -1,0 +1,24 @@
+EXPORTS
+    XButtons @1 DATA
+    _ZN10XButtonIDsC1Ev @2
+    _ZN10XButtonIDsC2Ev @3
+    _ZN7Gamepad11LeftStick_XEv @4
+    _ZN7Gamepad11LeftStick_YEv @5
+    _ZN7Gamepad11LeftTriggerEv @6
+    _ZN7Gamepad12RefreshStateEv @7
+    _ZN7Gamepad12RightStick_XEv @8
+    _ZN7Gamepad12RightStick_YEv @9
+    _ZN7Gamepad12RightTriggerEv @10
+    _ZN7Gamepad13GetButtonDownEi @11
+    _ZN7Gamepad16GetButtonPressedEi @12
+    _ZN7Gamepad17LStick_InDeadzoneEv @13
+    _ZN7Gamepad17RStick_InDeadzoneEv @14
+    _ZN7Gamepad6RumbleEff @15
+    _ZN7Gamepad6UpdateEv @16
+    _ZN7Gamepad8GetIndexEv @17
+    _ZN7Gamepad8GetStateEv @18
+    _ZN7Gamepad9ConnectedEv @19
+    _ZN7GamepadC1Ei @20
+    _ZN7GamepadC1Ev @21
+    _ZN7GamepadC2Ei @22
+    _ZN7GamepadC2Ev @23

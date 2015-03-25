@@ -1,7 +1,7 @@
 Padmaster - GDD
 =============
 
->! [**Voir le GDD sur Google Doc**](http://derpy.me/GDD "lien vers le GDD")
+> [**Voir le GDD sur Google Doc**](http://derpy.me/GDD "lien vers le GDD")
 
 ![CA_01 PADMASTER](http://image.noelshack.com/fichiers/2015/13/1427321619-ca01-p.jpg)
 

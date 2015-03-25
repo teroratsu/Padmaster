@@ -1,6 +1,4 @@
-Padmaster
+Padmaster - GDD
 =============
 
-### > [**Voir le GDD**](http://derpy.me/GDD "lien vers le GDD") #
-
-
+> [**Voir le GDD sur Google Doc**](http://derpy.me/GDD "lien vers le GDD")

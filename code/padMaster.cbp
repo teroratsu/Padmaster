@@ -46,21 +46,21 @@
 			<Add directory="C:/SFML-2.1/lib" />
 			<Add directory="T:/Documents/CodeBlocksProject/PadMaster/DLL/GamePad/bin/Debug" />
 		</Linker>
-		<Unit filename="Ennemis.cpp" />
-		<Unit filename="Ennemis.h" />
-		<Unit filename="Gametype.cpp" />
-		<Unit filename="Gametype.h" />
-		<Unit filename="Joueur.cpp" />
-		<Unit filename="Joueur.h" />
-		<Unit filename="Weapon.cpp" />
-		<Unit filename="Weapon.h" />
-		<Unit filename="gestionFenetre.cpp" />
-		<Unit filename="gestionFenetre.h" />
-		<Unit filename="localGame.cpp" />
-		<Unit filename="localGame.h" />
-		<Unit filename="main.cpp" />
-		<Unit filename="projectile.cpp" />
-		<Unit filename="projectile.h" />
+		<Unit filename="source\Ennemis.cpp" />
+		<Unit filename="Header\Ennemis.h" />
+		<Unit filename="source\Gametype.cpp" />
+		<Unit filename="Header\Gametype.h" />
+		<Unit filename="source\Joueur.cpp" />
+		<Unit filename="Header\Joueur.h" />
+		<Unit filename="source\Weapon.cpp" />
+		<Unit filename="Header\Weapon.h" />
+		<Unit filename="source\gestionFenetre.cpp" />
+		<Unit filename="Header\gestionFenetre.h" />
+		<Unit filename="source\localGame.cpp" />
+		<Unit filename="Header\localGame.h" />
+		<Unit filename="source\main.cpp" />
+		<Unit filename="source\projectile.cpp" />
+		<Unit filename="Header\projectile.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />

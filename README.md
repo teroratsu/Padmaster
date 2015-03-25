@@ -41,7 +41,7 @@ L'élément principale du projet sur quoi tout repose est le moteur de jeu. Celu
 Padmaster est le jeu vidéo test pour lequel est développé le moteur de jeu, il sert aussi de sandbox pour tester et développer notre moteur de jeu.
 Le jeu est encore à l'état de réflexion ainsi le cahier des charges est encore en pleine conception.
 
-### **3. Cahier des charges**#
+### **3. Productions graphiques**#
 
 ###### Concept Art #
 

@@ -35,7 +35,8 @@ Ce projet est aussi un moyen de prouver notre motivation et notre sérieux si l�
 ### **2. Cahier des charges**#
 
 #### **2.1. Le moteur de jeu**#
-L'élément principale du projet sur quoi tout repose est le moteur de jeu. Celui-ci doit pouvoir fonctionner pour tous les cas d'utilisations dont nous pourrions avoir besoin pour développer un jeu 2D. Ce moteur est un moteur 2D et ne convient qu'à la conception de jeu 2D bien spécifiques (shooters).
+L'élément principale du projet sur quoi tout repose est le moteur de jeu. Celui-ci doit pouvoir fonctionner pour tous les cas d'utilisations dont nous pourrions avoir besoin pour développer un jeu 2D. Ce moteur est un moteur 2D et ne convient qu'à la conception de jeu 2D bien spécifiques (shooters).  
+**Le tryEngine possède son propre répertoire sur github - [voir le répertoire](https://github.com/T-Bag-Studio/TryEngine)**
 
 #### **2.2. Padmaster**#
 _Padmaster est le jeu vidéo test pour lequel est développé le moteur de jeu, il sert aussi de sandbox pour tester et développer notre moteur de jeu. Le jeu est encore à l'état de réflexion ainsi le cahier des charges est encore en pleine conception._
@@ -166,7 +167,10 @@ A : Utiliser l’objet en raccourcis
 echap → accéder au menu  
 E →  Interagir (vaisseau neutre)  
 #####_Le Multijoueur_ :   
-Pouvoir se connecter avec un ami.  
+Pouvoir se connecter avec un ami. 
+#####_La sauvegarde_ :  
+La progression du joueur est sauvegardée de façon automatique dans la BDD SQlite et permet un backup plus ou moins ancien.
+(La sauvegarde automatqiue peut être désactivée pour être faite manuellement)  
 #####__Les Ester Eggs__  ( parce que c’est toujours important ) :  
 _Halo_ :  
 Un vaisseau appelé le Pillar of Autumn se balade dans la carte du jeu, le joueur pour parler avec lui, lui répondant des phrases en rapport avec l’univers de Halo :    

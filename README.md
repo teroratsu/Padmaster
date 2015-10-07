@@ -3,7 +3,7 @@ Padmaster - GDD
 
 > [**Voir le GDD sur Google Doc**](http://derpy.me/GDD "lien vers le GDD")
 
-![CA_01 PADMASTER](http://image.noelshack.com/fichiers/2015/13/1427321619-ca01-p.jpg)
+![CA_01 PADMASTER](http://image.noelshack.com/fichiers/2015/14/1428100183-full-hd-x1-6-ca-01.jpg)
 
 #### **1. A propos du projet**#
 	- Le but du projet
